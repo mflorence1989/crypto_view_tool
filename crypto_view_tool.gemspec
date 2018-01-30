@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Mario Florence"]
   spec.email         = ["mflorence1989@gmail.com"]
 
-  spec.summary       = %q{This is a copyright tool for the KryptoNet website.}
+  spec.summary       = %q{This is a copyright tool for the CryptoNet website.}
   spec.description   = %q{Copyright tool.}
   spec.homepage      = "https://kryponet.com"
   spec.license       = "MIT"
